@@ -1,0 +1,20 @@
+HAND GESTURE RECOGNITION AND VOICE CONVERSION SYSTEM
+COMPONENTS LIST
+
+1. Raspberry Pi 4 Model B (or Raspberry Pi 3 Model B)
+2. MicroSD Card (16GB or higher) – for Raspberry Pi OS
+3. IR Sensors (Infrared Proximity Sensors) – 2 or more
+4. Speaker / Audio Output Module
+5. 5V 3A Power Adapter (for Raspberry Pi)
+6. Breadboard
+7. Jumper Wires (Male-to-Male and Male-to-Female)
+8. Resistors (220 ohm / 330 ohm) – if using LEDs
+9. LED Indicators (optional)
+10. HDMI Cable (for setup)
+11. USB Keyboard and Mouse (for setup)
+12. Monitor (for setup)
+
+Software Requirements:
+- Raspberry Pi OS (Linux)
+- Python Programming Language
+- RPi.GPIO Library
